@@ -1,3 +1,6 @@
+## Management System
+React 공부를 위한 간단한 프로젝트 실습
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
